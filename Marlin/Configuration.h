@@ -55,7 +55,7 @@
  #define MACHINE_UUID "fe6c4c89-6987-4238-adf2-2fd41993aa59"
 
 // This defines the number of extruders
-#define EXTRUDERS 1
+#define EXTRUDERS 2
 
 //// The following define selects which power supply you have. Please choose the one that matches your setup
 // 1 = ATX
