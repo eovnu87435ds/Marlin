@@ -358,9 +358,9 @@
 // Babystepping enables the user to control the axis in tiny amounts, independently from the normal printing process
 // it can e.g. be used to change z-positions in the print startup phase in real-time
 // does not respect endstops!
-//#define BABYSTEPPING
+#define BABYSTEPPING
 #if ENABLED(BABYSTEPPING)
-  #define BABYSTEP_XY  //not only z, but also XY in the menu. more clutter, more functions
+ // #define BABYSTEP_XY  //not only z, but also XY in the menu. more clutter, more functions
   //not implemented for CoreXY and deltabots!
   #define BABYSTEP_INVERT_Z false  //true for inverse movements in Z
   #define BABYSTEP_Z_MULTIPLICATOR 2 //faster z movements
