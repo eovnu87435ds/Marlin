@@ -5,9 +5,16 @@
 
 ## Michael Dornisch's Personal Fork
 
-If you have come across this repository, it might not work for your printer. This is a fork of the Marlin Release 1.0.2, configured for my printer. It is a Prusa I3 from Folger Technologies, but modified with a new X carriage, 2x bowden extruders, and an E3D Chimera dual hotend. 
+If you have come across this repository, it might not work for your printer. This is a fork of the Marlin Release 1.0.2, configured for my printer. It is modified from Folger Tech's original acrylic frame Prusa i3 variant.
 
-<img align="left" src="http://i.imgur.com/6R9akQR.jpg" />
+<img align="left" src="http://i.imgur.com/DeMNKjw.png" />
+
+## Michael's Modifications
+* Custom X carriage with belt tensioner and (now obsolete) Z endstop adjustment
+* Custom CAD'ed bowden extruders using mk8 extruder gears with compression fitting taps on the inlets and outlets.
+* Fixed bed with better linear bearing mounts instead of the horrible zip tie solution.
+* Custom designed mechanical detatching Z probe utilizing a Cherry MX black keyswitch. [(see video)](https://www.youtube.com/watch?v=7NZJfOa3XrI)
+* Integrated OrangePi PC running Ubuntu 14.04 with [OctoPrint](https://github.com/foosel/OctoPrint/) host software.
 
 ## License
 
