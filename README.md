@@ -7,7 +7,7 @@
 
 If you have come across this repository, it might not work for your printer. This is a fork of the Marlin Release 1.0.2, configured for my printer. It is modified from Folger Tech's original acrylic frame Prusa i3 variant.
 
-<img align="left" src="http://i.imgur.com/DeMNKjw.png" />
+<img align="center" src="http://i.imgur.com/DeMNKjw.png" />
 
 
 
@@ -17,6 +17,8 @@ If you have come across this repository, it might not work for your printer. Thi
 * Fixed bed with better linear bearing mounts instead of the horrible zip tie solution.
 * Custom designed mechanical detatching Z probe utilizing a Cherry MX black keyswitch. [(see video)](https://www.youtube.com/watch?v=7NZJfOa3XrI)
 * Integrated OrangePi PC running Ubuntu 14.04 with [OctoPrint](https://github.com/foosel/OctoPrint/) host software.
+* Replaced standard PSU with a modified HP DPS-800GB server PSU. Higher power output, plus a 5v rail for powering the OrangePi
+* Printer enclosure made from two [IKEA LACK](http://www.ikea.com/us/en/catalog/products/40104270/) tables, an acrylic door and foam walls.
 
 ## License
 
