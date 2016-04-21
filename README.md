@@ -11,7 +11,7 @@ If you have come across this repository, it might not work for your printer. Thi
 
 
 
-## Michael's Modifications
+##         Michael's Modifications
 * Custom X carriage with belt tensioner and (now obsolete) Z endstop adjustment
 * Custom CAD'ed bowden extruders using mk8 extruder gears with compression fitting taps on the inlets and outlets.
 * Fixed bed with better linear bearing mounts instead of the horrible zip tie solution.
