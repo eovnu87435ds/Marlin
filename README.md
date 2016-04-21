@@ -9,6 +9,8 @@ If you have come across this repository, it might not work for your printer. Thi
 
 <img align="left" src="http://i.imgur.com/DeMNKjw.png" />
 
+
+
 ## Michael's Modifications
 * Custom X carriage with belt tensioner and (now obsolete) Z endstop adjustment
 * Custom CAD'ed bowden extruders using mk8 extruder gears with compression fitting taps on the inlets and outlets.
